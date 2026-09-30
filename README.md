@@ -341,3 +341,4 @@ Features: MaxHeap Priority | Voter Verification | Real-Time Winner Audit
 </p>
 
 </div>
+<!-- last updated: 2026-10-01 00:43:42 -->
